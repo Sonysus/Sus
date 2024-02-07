@@ -1,4 +1,4 @@
-# Sus
+# New Day
 This is new
 Here is a change.
 Hello
